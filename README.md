@@ -1,5 +1,5 @@
 - 👋 Hola! Soy Marcos!
-- 🌱 Estoy aprendiendo desarrollo en flutter
+- 🌱 Estudiante de Lic. en Analisis de Sistemas - FIUBA
 - 📫 correo: calvimarcos@gmail.com
 
 <!---
